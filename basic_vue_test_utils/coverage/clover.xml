@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1641368782193" clover="3.2.0">
+  <project timestamp="1641368782194" name="All files">
+    <metrics statements="3" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1" elements="5" coveredelements="2" complexity="0" loc="3" ncloc="3" packages="1" files="1" classes="1"/>
+    <file name="Greeting.vue" path="D:\JCC Intensive\Phase III\unit-test-bwa\basic_vue_test_utils\src\Greeting.vue">
+      <metrics statements="3" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+      <line num="16" count="2" type="stmt"/>
+      <line num="23" count="0" type="stmt"/>
+      <line num="24" count="0" type="stmt"/>
+    </file>
+  </project>
+</coverage>
