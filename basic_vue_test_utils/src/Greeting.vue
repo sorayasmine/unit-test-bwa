@@ -18,12 +18,6 @@ export default {
       isBtnClicked: false,
     };
   },
-  methods: {
-    inputName: function (name) {
-      console.log(this.name);
-      return `Welcome ${name}`;
-    },
-  },
 };
 </script>
 
